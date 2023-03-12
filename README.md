@@ -1,5 +1,5 @@
 # FDMCD
-Python Official Implementation of Fourier domain structural relationship analysis for unsupervised multimodal change detection
+Python Official Implementation of [Fourier domain structural relationship analysis for unsupervised multimodal change detection.](https://www.sciencedirect.com/science/article/pii/S092427162300062X)
 
 <img src="./figures/FDMCD.jpg">
 
@@ -16,6 +16,21 @@ imageio=2.9.0
 numpy==1.20.3
 gdal==3.0.2
 opencv==4.5.5
+```
+## Citation
+Please cite our paper if you use this code in your research.
+```
+@article{CHEN2023Fourier,
+title = {Fourier domain structural relationship analysis for unsupervised multimodal change detection},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {198},
+pages = {99-114},
+year = {2023},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2023.03.004},
+url = {https://www.sciencedirect.com/science/article/pii/S092427162300062X},
+author = {Hongruixuan Chen and Naoto Yokoya and Marco Chini}
+}
 ```
 
 ## Q & A
